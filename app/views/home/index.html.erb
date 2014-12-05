@@ -1,0 +1,8 @@
+<% @instagram.each do |instagram| %>
+
+<div id="fotos" class="transitions-enabled box panel panel-default">
+	<div class="panel-body">
+		<%= image_tag instagram.images.standard_resolution.url, :class => "img-responsive center-block" %>
+	</div>
+</div>
+<% end %>
