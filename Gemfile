@@ -46,6 +46,8 @@ gem 'instagram'
 
 gem 'threejs-rails'
 
+gem 'simple_form'
+
 # Use unicorn as the app server
 # gem 'unicorn'
 
