@@ -50,6 +50,8 @@ gem 'simple_form'
 
 gem 'devise'
 
+gem 'auto_html'
+
 # Use unicorn as the app server
 # gem 'unicorn'
 
