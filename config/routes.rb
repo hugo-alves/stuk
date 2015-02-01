@@ -19,6 +19,8 @@ Rails.application.routes.draw do
 
   get 'instagram' => "insta#index"
 
+  get 'test' => "pages#test"
+
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
 
